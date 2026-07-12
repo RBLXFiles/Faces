@@ -28,10 +28,6 @@ Current folders include:
 
 Additional categories may be added as more assets are archived.
 
-## Catalog
-
-A complete catalog of all archived faces is currently unavailable in the repository but will be added in the future.
-
 ## Credits
 
 This repository is maintained by **RBLXFiles** with contributions from the Roblox preservation community.
