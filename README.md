@@ -8,8 +8,6 @@ This project is a collection of Roblox face textures gathered from different era
 This collection includes:
 * Classic Roblox faces.
 * Faces that are no longer obtainable.
-* Archived face textures from older Roblox releases.
-* Historically significant Roblox face assets.
 
 ## Guidelines and Contributions
 
