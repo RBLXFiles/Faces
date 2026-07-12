@@ -7,7 +7,8 @@ This project is a collection of Roblox face textures gathered from different era
 
 This collection includes:
 * Classic Roblox faces.
-* Faces that are no longer obtainable.
+* Faces that can no longer be obtained.
+* Faces involved in hacking incidents.
 
 ## Guidelines and Contributions
 
